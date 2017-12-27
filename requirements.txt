@@ -3,3 +3,4 @@ scipy
 time
 cv2
 matplotlib
+skimage
